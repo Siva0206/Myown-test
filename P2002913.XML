@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><Licence licenceXMLSchemaVersion="2.0">
+<LicenceData Id="licOSSW8806">
+<licenceInfo licenceCode="OSSW8806" licenceName="NetAct 19.x 365d Test Bed LK"></licenceInfo>
+<order orderId=""></order>
+<serial serialNbr="7730171702928"></serial>
+<customer customerId="123456" customerName="NSN Testing"></customer>
+<threshold>
+<timeLimit endTime="2020-05-15T23:59:59" startTime="2019-05-17T00:00:00"></timeLimit>
+</threshold>
+<target targetNeType="NAS"><targetNe targetId="80640640"></targetNe>
+</target>
+<featureData>
+<featureInfo featureCode="0000001959" featureName="TMF615 North Bound Mediation in OES"></featureInfo>
+<featureInfo featureCode="0000003424" featureName="NetAct Core NT HLR Standard SW"></featureInfo>
+<featureInfo featureCode="0000003446" featureName="NetAct Core CMS-8200 (HSS, SLF) Standard"></featureInfo>
+<featureInfo featureCode="0000003447" featureName="CM Auditing for GSM"></featureInfo>
+<featureInfo featureCode="0000003590" featureName="CM Servc Param - NT HLR FE"></featureInfo>
+<featureInfo featureCode="0000003597" featureName="NetAct Radio GSM standard SW"></featureInfo>
+<featureInfo featureCode="0000003598" featureName="NetAct Radio WCDMA standard SW"></featureInfo>
+<featureInfo featureCode="0000003599" featureName="NetAct Radio LTE FD TD FZ standard SW"></featureInfo>
+<featureInfo featureCode="0000003600" featureName="NetAct Core Mobile Voice Switches Standa"></featureInfo>
+<featureInfo featureCode="0000003601" featureName="NetAct Core Flexi NG Standard SW"></featureInfo>
+<featureInfo featureCode="0000003864" featureName="CM History for GSM"></featureInfo>
+<featureInfo featureCode="0000003873" featureName="NetAct Core MGW Standard SW"></featureInfo>
+<featureInfo featureCode="0000004104" featureName="CM Servc Param - CFX-5000(CSCF,LB)"></featureInfo>
+<featureInfo featureCode="0000004109" featureName="Tracing System"></featureInfo>
+<featureInfo featureCode="0000004110" featureName="Unlimited number of Traces"></featureInfo>
+<featureInfo featureCode="0000004155" featureName="Subscriber Tracing for 3G"></featureInfo>
+<featureInfo featureCode="0000004249" featureName="NetAct Radio GSM-R standard SW"></featureInfo>
+<featureInfo featureCode="0000004254" featureName="CM Rehosting for GSM"></featureInfo>
+<featureInfo featureCode="0000004256" featureName="CM Remote Site Configuration Management "></featureInfo>
+<featureInfo featureCode="0000004257" featureName="CM Plan Editor for GSM/GSM-R"></featureInfo>
+<featureInfo featureCode="0000004272" featureName="NetAct Core Flexi NS Standard SW"></featureInfo>
+<featureInfo featureCode="0000004276" featureName="SW Management for 2G Radio"></featureInfo>
+<featureInfo featureCode="0000004278" featureName="SW Management for 3G Radio"></featureInfo>
+<featureInfo featureCode="0000004280" featureName="SW Management for LTE Radio"></featureInfo>
+<featureInfo featureCode="0000004284" featureName="SW Management for Mobile Voice Core"></featureInfo>
+<featureInfo featureCode="0000004286" featureName="SW Management for Packet Core"></featureInfo>
+<featureInfo featureCode="0000004288" featureName="SW Management for SDM Core"></featureInfo>
+<featureInfo featureCode="0000004506" featureName="ASCII Alarm Forwarding NBI"></featureInfo>
+<featureInfo featureCode="0000004507" featureName="Cell Tracing for 3G CTA"></featureInfo>
+<featureInfo featureCode="0000004508" featureName="Trace based monitoring for 3G"></featureInfo>
+<featureInfo featureCode="0000004509" featureName="Cell Trace for LTE"></featureInfo>
+<featureInfo featureCode="0000004510" featureName="Subscriber Trace for LTE"></featureInfo>
+<featureInfo featureCode="0000004511" featureName="Subscriber Trace for EPC Core"></featureInfo>
+<featureInfo featureCode="0000004516" featureName="3GPP Rel6 CORBA FM NBI"></featureInfo>
+<featureInfo featureCode="0000004518" featureName="SNMP Alarm Forwarding NBI"></featureInfo>
+<featureInfo featureCode="0000004519" featureName="3GPP XML Format PM NBI"></featureInfo>
+<featureInfo featureCode="0000004520" featureName="OSS/J Trouble Ticket Client NBI"></featureInfo>
+<featureInfo featureCode="0000004521" featureName="XML Based Inventory Data Export NBI"></featureInfo>
+<featureInfo featureCode="0000004575" featureName="NetAct Core CFX-5000 Standard SW"></featureInfo>
+<featureInfo featureCode="0000004576" featureName="NetAct Core CMS-8200 (DRA) Standard SW"></featureInfo>
+<featureInfo featureCode="0000004577" featureName="NetAct Core PCS-5000 Standard SW"></featureInfo>
+<featureInfo featureCode="0000004578" featureName="NetAct Core One-NDS Standard SW"></featureInfo>
+<featureInfo featureCode="0000004590" featureName="Subscriber Tracing for GSM Radio"></featureInfo>
+<featureInfo featureCode="0000004591" featureName="Subscriber Tracing for GPRS Radio"></featureInfo>
+<featureInfo featureCode="0000004592" featureName="Cell Trace for 2G"></featureInfo>
+<featureInfo featureCode="0000004593" featureName="Subscriber Tracing for I-HSPA"></featureInfo>
+<featureInfo featureCode="0000004595" featureName="Subscriber Tracing for Mobile Voice"></featureInfo>
+<featureInfo featureCode="0000004603" featureName="CM Auditing for LTE"></featureInfo>
+<featureInfo featureCode="0000004604" featureName="CM History for LTE"></featureInfo>
+<featureInfo featureCode="0000004605" featureName="Automated Site Creation for LTE"></featureInfo>
+<featureInfo featureCode="0000004606" featureName="CM Antenna Management for LTE"></featureInfo>
+<featureInfo featureCode="0000004607" featureName="CM Auditing for Mobile Voice"></featureInfo>
+<featureInfo featureCode="0000004608" featureName="CM History for Mobile Voice"></featureInfo>
+<featureInfo featureCode="0000004609" featureName="Extended CM Support for Mobile Voice"></featureInfo>
+<featureInfo featureCode="0000004610" featureName="CM Pooling for Mobile Voice"></featureInfo>
+<featureInfo featureCode="0000004611" featureName="CM Auditing for NT HLR FE"></featureInfo>
+<featureInfo featureCode="0000004612" featureName="CM History for NT HLR FE"></featureInfo>
+<featureInfo featureCode="0000004613" featureName="CM Auditing for CFX-5000 (CSCF, Load Bal"></featureInfo>
+<featureInfo featureCode="0000004614" featureName="CM History for CFX-5000 (CSCF, Load Bala"></featureInfo>
+<featureInfo featureCode="0000004615" featureName="CM Auditing for Flexi NG"></featureInfo>
+<featureInfo featureCode="0000004616" featureName="CM History for Flexi NG"></featureInfo>
+<featureInfo featureCode="0000004617" featureName="CM Northbound Interfaces for GSM/GSM-R"></featureInfo>
+<featureInfo featureCode="0000004618" featureName="CM Northbound Interfaces for LTE"></featureInfo>
+<featureInfo featureCode="0000004619" featureName="CM Northbound Interfaces for Mobile Voic"></featureInfo>
+<featureInfo featureCode="0000004620" featureName="CM Northbound Interfaces for Flexi NG"></featureInfo>
+<featureInfo featureCode="0000004621" featureName="CM Northbound Interfaces for NT HLR FE"></featureInfo>
+<featureInfo featureCode="0000004622" featureName="CM Northbound Interfaces for CFX-5000 (C"></featureInfo>
+<featureInfo featureCode="0000004623" featureName="CM Table Editor for GSM/GSM-R"></featureInfo>
+<featureInfo featureCode="0000004624" featureName="CM Table Editor for LTE"></featureInfo>
+<featureInfo featureCode="0000004625" featureName="CM Table Editor for Mobile Voice"></featureInfo>
+<featureInfo featureCode="0000004626" featureName="CM Table Editor for Flexi NG"></featureInfo>
+<featureInfo featureCode="0000004627" featureName="CM Table Editor for NT HLR FE"></featureInfo>
+<featureInfo featureCode="0000004628" featureName="CM Table Editor for CFX-5000 (CSCF, Load"></featureInfo>
+<featureInfo featureCode="0000004629" featureName="CM Activation Options for WCDMA"></featureInfo>
+<featureInfo featureCode="0000004630" featureName="CM Activation Options for Mobile Voice"></featureInfo>
+<featureInfo featureCode="0000004631" featureName="CM Activation Options for Flexi NG"></featureInfo>
+<featureInfo featureCode="0000004632" featureName="CM Activation Options for CFX-5000 (CSCF"></featureInfo>
+<featureInfo featureCode="0000004633" featureName="CM Activation Options for NT HLR FE"></featureInfo>
+<featureInfo featureCode="0000004634" featureName="CM Plan Editor for LTE"></featureInfo>
+<featureInfo featureCode="0000004635" featureName="CM HW Management for GSM/GSM-R"></featureInfo>
+<featureInfo featureCode="0000004636" featureName="CM HW Management for LTE"></featureInfo>
+<featureInfo featureCode="0000004637" featureName="CM HW Management for Mobile Voice"></featureInfo>
+<featureInfo featureCode="0000004638" featureName="CM HW Management for Flexi NG"></featureInfo>
+<featureInfo featureCode="0000004639" featureName="CM HW Management for CFX-5000 (CSCF, Loa"></featureInfo>
+<featureInfo featureCode="0000004640" featureName="CM HW Management for NT HLR FE"></featureInfo>
+<featureInfo featureCode="0000004641" featureName="CM Auditing for GSM-R"></featureInfo>
+<featureInfo featureCode="0000004642" featureName="CM History for GSM-R"></featureInfo>
+<featureInfo featureCode="0000004643" featureName="CM Auditing for WCDMA"></featureInfo>
+<featureInfo featureCode="0000004644" featureName="CM History for WCDMA"></featureInfo>
+<featureInfo featureCode="0000004645" featureName="CM Rehosting for WCDMA"></featureInfo>
+<featureInfo featureCode="0000004646" featureName="Automated Site Creation for WCDMA"></featureInfo>
+<featureInfo featureCode="0000004647" featureName="CM Antenna Management for WCDMA"></featureInfo>
+<featureInfo featureCode="0000004655" featureName="3GPP CORBA BulkCM NBI for 3G"></featureInfo>
+<featureInfo featureCode="0000004656" featureName="3GPP CORBA BulkCM NBI for LTE"></featureInfo>
+<featureInfo featureCode="0000004657" featureName="3GPP CORBA NBI Common IRPs"></featureInfo>
+<featureInfo featureCode="0000004658" featureName="3GPP CORBA NBI KernelCM IRP"></featureInfo>
+<featureInfo featureCode="0000004659" featureName="3GPP CORBA NBI FileTransfer IRP"></featureInfo>
+<featureInfo featureCode="0000004662" featureName="CM Site Templates for GSM"></featureInfo>
+<featureInfo featureCode="0000004670" featureName="Centralized NE User Management for LTE"></featureInfo>
+<featureInfo featureCode="0000004706" featureName="Trace base monitoring for LTE"></featureInfo>
+<featureInfo featureCode="0000004785" featureName="CM HW Management for One-NDS"></featureInfo>
+<featureInfo featureCode="0000004786" featureName="CM Auditing for CMS-8200 (HSS-FE, SLF)"></featureInfo>
+<featureInfo featureCode="0000004787" featureName="CM History for CMS-8200 (HSS-FE, SLF)"></featureInfo>
+<featureInfo featureCode="0000004788" featureName="CM Northbound Interfaces for CMS-8200 (H"></featureInfo>
+<featureInfo featureCode="0000004789" featureName="CM Table Editor for CMS-8200 (HSS-FE, SL"></featureInfo>
+<featureInfo featureCode="0000004790" featureName="CM Activation Options for CMS-8200 (HSS-"></featureInfo>
+<featureInfo featureCode="0000004791" featureName="CM HW Management for CMS-8200 (HSS-FE, S"></featureInfo>
+<featureInfo featureCode="0000004792" featureName="CM Auditing for CMS-8200 (DRA)"></featureInfo>
+<featureInfo featureCode="0000004793" featureName="CM History for CMS-8200 (DRA)"></featureInfo>
+<featureInfo featureCode="0000004794" featureName="CM Northbound Interfaces for CMS-8200 (D"></featureInfo>
+<featureInfo featureCode="0000004795" featureName="CM Table Editor for CMS-8200 (DRA)"></featureInfo>
+<featureInfo featureCode="0000004796" featureName="CM Activation Options for CMS-8200 (DRA)"></featureInfo>
+<featureInfo featureCode="0000004797" featureName="CM HW Management for CMS-8200 (DRA)"></featureInfo>
+<featureInfo featureCode="0000004798" featureName="CM Northbound Interfaces for WCDMA"></featureInfo>
+<featureInfo featureCode="0000004799" featureName="CM Table Editor for WCDMA"></featureInfo>
+<featureInfo featureCode="0000004800" featureName="CM Plan Editor for WCDMA"></featureInfo>
+<featureInfo featureCode="0000004801" featureName="CM HW Management for WCDMA"></featureInfo>
+<featureInfo featureCode="0000004853" featureName="NetAct Core Mobility Applications Standa"></featureInfo>
+<featureInfo featureCode="0000004854" featureName="NetAct Core Support Elements Standard SW"></featureInfo>
+<featureInfo featureCode="0000004922" featureName="NetAct for Juniper SW"></featureInfo>
+<featureInfo featureCode="0000004925" featureName="NetAct for Cisco SW"></featureInfo>
+<featureInfo featureCode="0000004930" featureName="NetAct for MWR standard SW"></featureInfo>
+<featureInfo featureCode="0000004931" featureName="NetAct for Tellabs SW"></featureInfo>
+<featureInfo featureCode="0000004937" featureName="CM NB Interfaces for FlexiNS(SGSN)"></featureInfo>
+<featureInfo featureCode="0000004938" featureName="CM Table Editor for FlexiNS(SGSN)"></featureInfo>
+<featureInfo featureCode="0000004939" featureName="CM HW Management for FlexiNS(SGSN)"></featureInfo>
+<featureInfo featureCode="0000004940" featureName="CM Activation Options for FlexiNS(SGSN)"></featureInfo>
+<featureInfo featureCode="0000004954" featureName="CM SOAP API for GSM"></featureInfo>
+<featureInfo featureCode="0000004955" featureName="CM SOAP API for GSM-R"></featureInfo>
+<featureInfo featureCode="0000004956" featureName="CM SOAP API for WCDMA"></featureInfo>
+<featureInfo featureCode="0000004957" featureName="CM SOAP API for LTE"></featureInfo>
+<featureInfo featureCode="0000004958" featureName="CM SOAP API for Mobile Voice"></featureInfo>
+<featureInfo featureCode="0000004959" featureName="CM SOAP API for NT HLR FE"></featureInfo>
+<featureInfo featureCode="0000004960" featureName="CM SOAP API for CFX-5000 (CSCF, Load Bal"></featureInfo>
+<featureInfo featureCode="0000004961" featureName="CM SOAP API for Flexi NG"></featureInfo>
+<featureInfo featureCode="0000004962" featureName="CM SOAP API for FlexiNS(SGSN)"></featureInfo>
+<featureInfo featureCode="0000004963" featureName="CM SOAP API for CMS-8200 (HSS-FE, SLF)"></featureInfo>
+<featureInfo featureCode="0000004964" featureName="CM SOAP API for CMS-8200 (DRA)"></featureInfo>
+<featureInfo featureCode="0000005007" featureName="NetAct Radio GSM-R Standard Cluster SW"></featureInfo>
+<featureInfo featureCode="0000005058" featureName="RTPM for One-NDS"></featureInfo>
+<featureInfo featureCode="0000005059" featureName="RTPM for NT-HLR FE"></featureInfo>
+<featureInfo featureCode="0000005060" featureName="RTPM for CMS-8200 (HSS-FE, TIAMS)"></featureInfo>
+<featureInfo featureCode="0000005061" featureName="RTPM for CFX-5000"></featureInfo>
+<featureInfo featureCode="0000005062" featureName="RTPM for CMS-8200 (DRA)"></featureInfo>
+<featureInfo featureCode="0000005063" featureName="RTPM for PCS"></featureInfo>
+<featureInfo featureCode="0000005064" featureName="RTPM for Flexi NG"></featureInfo>
+<featureInfo featureCode="0000005090" featureName="Centralized NE User Management for GSM"></featureInfo>
+<featureInfo featureCode="0000005091" featureName="Centralized NE User Management for WCDMA"></featureInfo>
+<featureInfo featureCode="0000005093" featureName="Centralized NE User Management for MV (M"></featureInfo>
+<featureInfo featureCode="0000005095" featureName="Centralized NE User Management for PaCo "></featureInfo>
+<featureInfo featureCode="0000005121" featureName="CM Antenna Management for GSM"></featureInfo>
+<featureInfo featureCode="0000005122" featureName="CM Activation Options for LTE"></featureInfo>
+<featureInfo featureCode="0000005128" featureName="NetAct Core IP interconnect standard SW"></featureInfo>
+<featureInfo featureCode="0000005135" featureName="NetAct PM Advanced Visualization for Rad"></featureInfo>
+<featureInfo featureCode="0000005136" featureName="NetAct PM Advanced Visualization for Cor"></featureInfo>
+<featureInfo featureCode="0000005137" featureName="NetAct PM Long Term Storage"></featureInfo>
+<featureInfo featureCode="0000005141" featureName="NetAct Thresholding &amp; Profiling"></featureInfo>
+<featureInfo featureCode="0000005164" featureName="NetAct for Symmetricom Standard SW"></featureInfo>
+<featureInfo featureCode="0000005165" featureName="NetAct for NetViewer Standard SW"></featureInfo>
+<featureInfo featureCode="0000005166" featureName="NetAct for PKI Standard SW"></featureInfo>
+<featureInfo featureCode="0000005167" featureName="NetAct for FM200i Standard SW"></featureInfo>
+<featureInfo featureCode="0000005176" featureName="NetAct Connection Master Standard SW"></featureInfo>
+<featureInfo featureCode="0000005225" featureName="Automatic Trouble Ticket Generation"></featureInfo>
+<featureInfo featureCode="0000005226" featureName="Dynamic Alarm Suppression for Radio"></featureInfo>
+<featureInfo featureCode="0000005252" featureName="Dynamic Alarm Suppression for Core"></featureInfo>
+<featureInfo featureCode="0000005253" featureName="NetAct Core Open TAS Standard SW"></featureInfo>
+<featureInfo featureCode="0000005255" featureName="NetAct Core Open BGW Standard SW"></featureInfo>
+<featureInfo featureCode="0000005292" featureName="CM Auditing for Open TAS"></featureInfo>
+<featureInfo featureCode="0000005293" featureName="CM History for Open TAS"></featureInfo>
+<featureInfo featureCode="0000005294" featureName="CM Extended Support for Open TAS"></featureInfo>
+<featureInfo featureCode="0000005295" featureName="CM NB Interfaces for Open TAS"></featureInfo>
+<featureInfo featureCode="0000005296" featureName="CM Table Editor for Open TAS"></featureInfo>
+<featureInfo featureCode="0000005297" featureName="CM HW Management for Open TAS"></featureInfo>
+<featureInfo featureCode="0000005298" featureName="CM Activation Options for Open TAS"></featureInfo>
+<featureInfo featureCode="0000005299" featureName="CM SOAP API for Open TAS"></featureInfo>
+<featureInfo featureCode="0000005300" featureName="CM Servc Param - CMS-8200(HSSFE,SLF)"></featureInfo>
+<featureInfo featureCode="0000005301" featureName="CM Servc Param - CMS-8200(DRA)"></featureInfo>
+<featureInfo featureCode="0000005350" featureName="Near zero downtime Upgrade SW"></featureInfo>
+<featureInfo featureCode="0000005362" featureName="CM Auditing for Open BGW"></featureInfo>
+<featureInfo featureCode="0000005363" featureName="CM History for Open BGW"></featureInfo>
+<featureInfo featureCode="0000005364" featureName="CM Northbound Interfaces for Open BGW"></featureInfo>
+<featureInfo featureCode="0000005365" featureName="CM Table Editor for Open BGW"></featureInfo>
+<featureInfo featureCode="0000005366" featureName="CM Activation Options for Open BGW"></featureInfo>
+<featureInfo featureCode="0000005367" featureName="CM SOAP API for Open BGW"></featureInfo>
+<featureInfo featureCode="0000005411" featureName="SON Cell Outage Detection for LTE"></featureInfo>
+<featureInfo featureCode="0000005447" featureName="NetAct Radio Tetra SW"></featureInfo>
+<featureInfo featureCode="0000005455" featureName="SW Management for CFX-5000 (CSCF)"></featureInfo>
+<featureInfo featureCode="0000005456" featureName="SW Management CMS-8200 (HSS-FE)"></featureInfo>
+<featureInfo featureCode="0000005457" featureName="SW Management CMS-8200 (DRA)"></featureInfo>
+<featureInfo featureCode="0000005458" featureName="SW Management and NE Backup for Open TAS"></featureInfo>
+<featureInfo featureCode="0000005459" featureName="SW Management and NE Backup for Open BGW"></featureInfo>
+<featureInfo featureCode="0000005467" featureName="CORBA Bulk CM NB Interface for Radio"></featureInfo>
+<featureInfo featureCode="0000005468" featureName="CORBA Bulk CM NB Interface for Core"></featureInfo>
+<featureInfo featureCode="0000005493" featureName="CM Ulticom SS7 Support for NTHLR FE"></featureInfo>
+<featureInfo featureCode="0000005494" featureName="CM Ulticom SS7 support for CMS8200(HSS-F"></featureInfo>
+<featureInfo featureCode="0000005556" featureName="RF Sharing for SRAN"></featureInfo>
+<featureInfo featureCode="0000005620" featureName="CM Advanced features for LIQAPPS"></featureInfo>
+<featureInfo featureCode="0000005621" featureName="CM Web Services for LIQAPPS"></featureInfo>
+<featureInfo featureCode="0000005704" featureName="ISDK SNMP &amp; MVI Toolkit"></featureInfo>
+<featureInfo featureCode="0000005723" featureName="CM Express Data Exchange for LTE"></featureInfo>
+<featureInfo featureCode="0000005724" featureName="CM Express Data Exchange for WCDMA"></featureInfo>
+<featureInfo featureCode="0000005725" featureName="CM Express Data Exchange for GSM"></featureInfo>
+<featureInfo featureCode="0000005726" featureName="CM Express Data Exchange for GSM-R"></featureInfo>
+<featureInfo featureCode="0000005740" featureName="CM Express Data Exchange for Mobile Voic"></featureInfo>
+<featureInfo featureCode="0000005741" featureName="CM Express Data Exchange for NTHLR FE"></featureInfo>
+<featureInfo featureCode="0000005742" featureName="CM Express Data Exchange for CFX-5000 (C"></featureInfo>
+<featureInfo featureCode="0000005743" featureName="CM Express Data Exchange for CMS-8200 (H"></featureInfo>
+<featureInfo featureCode="0000005744" featureName="CM Express Data Exchange for CMS-8200 (D"></featureInfo>
+<featureInfo featureCode="0000005745" featureName="CM Express Data Exchange for Flexi NG"></featureInfo>
+<featureInfo featureCode="0000005746" featureName="CM Express Data Exchange for FlexiNS(SGS"></featureInfo>
+<featureInfo featureCode="0000005747" featureName="CM Express Data Exchange for Open TAS"></featureInfo>
+<featureInfo featureCode="0000005748" featureName="CM Express Data Exchange for Open BGW"></featureInfo>
+<featureInfo featureCode="0000005752" featureName="CM History for Tetra"></featureInfo>
+<featureInfo featureCode="0000005753" featureName="CM Auditing for Tetra"></featureInfo>
+<featureInfo featureCode="0000005754" featureName="CM Northbound Interfaces for Tetra"></featureInfo>
+<featureInfo featureCode="0000005755" featureName="CM Table Editor for Tetra"></featureInfo>
+<featureInfo featureCode="0000005756" featureName="CM SOAP API for Tetra"></featureInfo>
+<featureInfo featureCode="0000005912" featureName="CM Express Data Exchange for Tetra"></featureInfo>
+<featureInfo featureCode="0000006588" featureName="CM Activation Options for SRAN"></featureInfo>
+<featureInfo featureCode="0000006589" featureName="CM HW Management for SRAN"></featureInfo>
+<featureInfo featureCode="0000006590" featureName="CM Northbound Interfaces for SRAN"></featureInfo>
+<featureInfo featureCode="0000006591" featureName="CM Plan Editor for SRAN"></featureInfo>
+<featureInfo featureCode="0000006592" featureName="CM Table Editor for SRAN"></featureInfo>
+<featureInfo featureCode="0000006594" featureName="CM Antenna Management for SRAN"></featureInfo>
+<featureInfo featureCode="0000006595" featureName="CM Auditing for SRAN"></featureInfo>
+<featureInfo featureCode="0000006596" featureName="CM History for SRAN"></featureInfo>
+<featureInfo featureCode="0000006597" featureName="CM SOAP API for SRAN"></featureInfo>
+<featureInfo featureCode="0000006600" featureName="SW Management &amp; NE Backup for SRAN"></featureInfo>
+<featureInfo featureCode="0000006601" featureName="3GPP CORBA Bulk CM NBI for SRAN"></featureInfo>
+<featureInfo featureCode="0000006687" featureName="Trace Based Troubleshooting for sRAN"></featureInfo>
+<featureInfo featureCode="0000006690" featureName="SW Management for TETRA"></featureInfo>
+<featureInfo featureCode="0000008449" featureName="Trace Based Troubleshooting for OpenTAS"></featureInfo>
+<featureInfo featureCode="0000008450" featureName="Trace Based Troubleshooting for CFX-5000"></featureInfo>
+<featureInfo featureCode="0000008451" featureName="Trace Based Troubleshooting for CMS-8200"></featureInfo>
+<featureInfo featureCode="0000010193" featureName="CM Assisted WCDMA Frequency Retune"></featureInfo>
+<featureInfo featureCode="0000012754" featureName="CM Rehosting for LTE"></featureInfo>
+<featureInfo featureCode="0000015959" featureName="Security Log Collector and NBI for Radio"></featureInfo>
+<featureInfo featureCode="0000015960" featureName="Centralized NE User Management for SRAN"></featureInfo>
+<featureInfo featureCode="0000015961" featureName="Security Log Collector and NBI for SDM"></featureInfo>
+<featureInfo featureCode="0000015962" featureName="Security Log Collector and NBI for MV"></featureInfo>
+<featureInfo featureCode="0000015963" featureName="Security Log Collector and NBI for EPC"></featureInfo>
+<featureInfo featureCode="0000015964" featureName="Security Log Collector and NBI for IMS"></featureInfo>
+<featureInfo featureCode="0000017751" featureName="CM Rehosting for SRAN"></featureInfo>
+<featureInfo featureCode="0000017753" featureName="NetAct Radio SRAN Standard SW"></featureInfo>
+<featureInfo featureCode="0000020281" featureName="CM Fast Network Roll-out for SRAN"></featureInfo>
+<featureInfo featureCode="0000020282" featureName="CM Express Data Exchange for SRAN SW"></featureInfo>
+<featureInfo featureCode="0000020284" featureName="ISDK SNMP &amp; MVI capacity NE"></featureInfo>
+<featureInfo featureCode="0000020285" featureName="ISDK SNMP &amp; MVI capacity EMS"></featureInfo>
+<featureInfo featureCode="0000025015" featureName="CM Intelligent Feature Activation for LT"></featureInfo>
+<featureInfo featureCode="0000025016" featureName="CM Intelligent Feature Activation for GS"></featureInfo>
+<featureInfo featureCode="0000025017" featureName="CM Intelligent Feature Activation for GS"></featureInfo>
+<featureInfo featureCode="0000025028" featureName="NetAct Advanced Working Sets for Radio"></featureInfo>
+<featureInfo featureCode="0000025030" featureName="NetAct Advanced Working Sets for Core"></featureInfo>
+<featureInfo featureCode="0000025104" featureName="Centralized NE User Management for MV (o"></featureInfo>
+<featureInfo featureCode="0000025183" featureName="CM Intelligent Feature Activation for SR"></featureInfo>
+<featureInfo featureCode="0000028007" featureName="NetAct Radio MEC Platform Standard SW"></featureInfo>
+<featureInfo featureCode="0000028008" featureName="NetAct for UE Relay Standard SW"></featureInfo>
+<featureInfo featureCode="0000029033" featureName="NetAct Thresholder and Profiler Radio"></featureInfo>
+<featureInfo featureCode="0000029034" featureName="NetAct Thresholder and Profiler Core"></featureInfo>
+<featureInfo featureCode="0000030769" featureName="CM Quality Assurance for Wi-Fi"></featureInfo>
+<featureInfo featureCode="0000030926" featureName="NetAct Radio Wi-Fi standard SW"></featureInfo>
+<featureInfo featureCode="0000030927" featureName="PM support for rehoming in GSM"></featureInfo>
+<featureInfo featureCode="0000030928" featureName="PM support for rehoming in WCDMA"></featureInfo>
+<featureInfo featureCode="0000031209" featureName="NetAct Functionality for RNC Resiliency"></featureInfo>
+<featureInfo featureCode="0000031244" featureName="CM Efficient Network Operations for Wi-F"></featureInfo>
+<featureInfo featureCode="0000031779" featureName="CM Intelligent Feature Activation for WC"></featureInfo>
+<featureInfo featureCode="0000032375" featureName="NetAct Advanced Supercell CM tool"></featureInfo>
+<featureInfo featureCode="0000033085" featureName="CM Plan Editor for Wi-Fi"></featureInfo>
+<featureInfo featureCode="0000033087" featureName="NetAct Radio FastMile Standard SW"></featureInfo>
+<featureInfo featureCode="0000033404" featureName="NetAct for WDM Fronthaul"></featureInfo>
+<featureInfo featureCode="0000033405" featureName="NetAct for Site Support Equipment"></featureInfo>
+<featureInfo featureCode="0000033406" featureName="NetAct Functionality for Narrowband LTE"></featureInfo>
+<featureInfo featureCode="0000034002" featureName="Cen NE User Manag for CFX 5000 CSCF"></featureInfo>
+<featureInfo featureCode="0000034004" featureName="Cen NE User Manag for CMS-8200 HSS"></featureInfo>
+<featureInfo featureCode="0000034006" featureName="Cen NE User Manag for NTHLR"></featureInfo>
+<featureInfo featureCode="0000034026" featureName="NetAct EPC MME SAM SW"></featureInfo>
+<featureInfo featureCode="0000034028" featureName="NetAct EPC MG SAM SW"></featureInfo>
+<featureInfo featureCode="0000035596" featureName="NetAct for CBIS Standard SW"></featureInfo>
+<featureInfo featureCode="0000035597" featureName="NetAct for NCIR Standard SW"></featureInfo>
+<featureInfo featureCode="0000035811" featureName="NetAct 7750 SR NSP SW"></featureInfo>
+<featureInfo featureCode="0000035812" featureName="NetAct VSR NSP SW"></featureInfo>
+<featureInfo featureCode="0000035813" featureName="NetAct 7705 SAR NSP SW"></featureInfo>
+<featureInfo featureCode="0000035814" featureName="NetAct 7210 SAS NSP SW"></featureInfo>
+<featureInfo featureCode="0000035815" featureName="NetAct 7450 ESS NSP SW"></featureInfo>
+<featureInfo featureCode="0000035816" featureName="NetAct 9500 MPR NSP SW"></featureInfo>
+<featureInfo featureCode="0000036212" featureName="NetAct Radio DCAP LTE Standard SW"></featureInfo>
+<featureInfo featureCode="0000036213" featureName="NetAct Radio DCAP 2G/3G Standard SW"></featureInfo>
+<featureInfo featureCode="0000036214" featureName="NetAct Radio Eden-NET Standard SW"></featureInfo>
+<featureInfo featureCode="0000036330" featureName="NetAct Core SBC Standard SW"></featureInfo>
+<featureInfo featureCode="0000036331" featureName="NetAct Core NetNum Titan Standard SW"></featureInfo>
+<featureInfo featureCode="0000036332" featureName="NetAct Core DSC Standard SW"></featureInfo>
+<featureInfo featureCode="0000036333" featureName="NetAct Core Radisys MRF Standard SW"></featureInfo>
+<featureInfo featureCode="0000036334" featureName="NetAct Core SurePay Standard SW"></featureInfo>
+<featureInfo featureCode="0000036335" featureName="NetAct Core DDE Standard SW"></featureInfo>
+<featureInfo featureCode="0000036336" featureName="NetAct Core AAA Standard SW"></featureInfo>
+<featureInfo featureCode="0000036343" featureName="RESTful Web Service Data Access API for "></featureInfo>
+<featureInfo featureCode="0000037783" featureName="RESTful Web Service Data Access API for "></featureInfo>
+<featureInfo featureCode="0000037784" featureName="RESTful Web Service Data Access API for "></featureInfo>
+<featureInfo featureCode="0000037786" featureName="RESTful Web Service Data Access API for "></featureInfo>
+<featureInfo featureCode="0000037787" featureName="RESTful Web Service Data Access API for "></featureInfo>
+<featureInfo featureCode="0000037956" featureName="NetAct Core SDL Standard SW"></featureInfo>
+<featureInfo featureCode="0000038062" featureName="NetAct CM Policy Manager for LTE"></featureInfo>
+<featureInfo featureCode="0000038063" featureName="NetAct CM Policy Manager for Mobile Voic"></featureInfo>
+<featureInfo featureCode="0000038242" featureName="SNMP Express App SW"></featureInfo>
+<featureInfo featureCode="0000038243" featureName="SNMP Express NE Capa Type A"></featureInfo>
+<featureInfo featureCode="0000038244" featureName="SNMP Express NE Capacity"></featureInfo>
+<featureInfo featureCode="0000039064" featureName="NetAct to Central AD Basic"></featureInfo>
+<featureInfo featureCode="0000039065" featureName="NetAct to Central AD - Authentication"></featureInfo>
+<featureInfo featureCode="0000039267" featureName="Enahnced Trace analysis for LTE"></featureInfo>
+<featureInfo featureCode="0000039901" featureName="SW Management and NE Backup for SMM"></featureInfo>
+<featureInfo featureCode="0000039993" featureName="NetAct Multi-VLAN support"></featureInfo>
+<featureInfo featureCode="0000039999" featureName="NetAct Radio SMM Standard SW"></featureInfo>
+<featureInfo featureCode="0000040000" featureName="CM HW Management for SMM"></featureInfo>
+<featureInfo featureCode="0000040024" featureName="CM Northbound Interfaces for SMM"></featureInfo>
+<featureInfo featureCode="0000045991" featureName="NetAct Advanced User Management"></featureInfo>
+<featureInfo featureCode="0000047420" featureName="NetAct CM Policy Manager for WCDMA"></featureInfo>
+<featureInfo featureCode="0000047421" featureName="NetAct CM Policy Manager for GSM/GSM-R"></featureInfo>
+<featureInfo featureCode="0000047422" featureName="NetAct CM Policy Manager for SRAN"></featureInfo>
+<featureInfo featureCode="0000047423" featureName="NetAct CM Policy Manager for CMS-8200 (H"></featureInfo>
+<featureInfo featureCode="0000047424" featureName="NetAct CM Policy Manager for CFX-5000 (C"></featureInfo>
+<featureInfo featureCode="0000047425" featureName="NetAct CM Policy Manager for NT HLR FE"></featureInfo>
+<featureInfo featureCode="0000047426" featureName="NetAct CM Policy Manager for Open TAS"></featureInfo>
+<featureInfo featureCode="0000048654" featureName="CLI for SW Management for 2G"></featureInfo>
+<featureInfo featureCode="0000048655" featureName="CLI for SW Management for 3G"></featureInfo>
+<featureInfo featureCode="0000048656" featureName="CLI for SW Management for LTE"></featureInfo>
+<featureInfo featureCode="0000048657" featureName="CLI for SW Management for SRAN"></featureInfo>
+<featureInfo featureCode="0000049007" featureName="NetAct Core NTAS Standard SW"></featureInfo>
+<featureInfo featureCode="0000049109" featureName="CLI for FM"></featureInfo>
+<featureInfo featureCode="0000049246" featureName="NetAct Core SPS Standard SW"></featureInfo>
+<featureInfo featureCode="0000049261" featureName="NetAct Radio 5G Standard SW"></featureInfo>
+<featureInfo featureCode="0000049455" featureName="CM HW Management for 5G"></featureInfo>
+<featureInfo featureCode="0000049628" featureName="CM Auditing for MRF"></featureInfo>
+<featureInfo featureCode="0000049629" featureName="CM SOAP API for MRF"></featureInfo>
+<featureInfo featureCode="0000049630" featureName="CM History for MRF"></featureInfo>
+<featureInfo featureCode="0000049631" featureName="NetAct CM Policy Manager for MRF"></featureInfo>
+<featureInfo featureCode="0000049632" featureName="CM Activation Options for MRF"></featureInfo>
+<featureInfo featureCode="0000049633" featureName="CM Express Data Exchange for MRF"></featureInfo>
+<featureInfo featureCode="0000049634" featureName="CM Table Editor for MRF"></featureInfo>
+<featureInfo featureCode="0000049635" featureName="CM Northbound Interfaces for MRF"></featureInfo>
+<featureInfo featureCode="0000049639" featureName="CM Auditing for NTAS"></featureInfo>
+<featureInfo featureCode="0000049640" featureName="CM SOAP API for NTAS"></featureInfo>
+<featureInfo featureCode="0000049641" featureName="CM History for NTAS"></featureInfo>
+<featureInfo featureCode="0000049642" featureName="NetAct CM Policy Manager for NTAS"></featureInfo>
+<featureInfo featureCode="0000049643" featureName="CM Northbound Interfaces for NTAS"></featureInfo>
+<featureInfo featureCode="0000049644" featureName="CM Express Data Exchange for NTAS"></featureInfo>
+<featureInfo featureCode="0000049645" featureName="CM Table Editor for NTAS"></featureInfo>
+<featureInfo featureCode="0000049646" featureName="CM Activation Options for NTAS"></featureInfo>
+<featureInfo featureCode="0000049647" featureName="CM Auditing for SDL"></featureInfo>
+<featureInfo featureCode="0000049648" featureName="CM SOAP API for SDL"></featureInfo>
+<featureInfo featureCode="0000049649" featureName="NetAct CM Policy Manager for SDL"></featureInfo>
+<featureInfo featureCode="0000049650" featureName="CM History for SDL"></featureInfo>
+<featureInfo featureCode="0000049652" featureName="CM Express Data Exchange for SDL"></featureInfo>
+<featureInfo featureCode="0000049653" featureName="CM Activation Options for SDL"></featureInfo>
+<featureInfo featureCode="0000049654" featureName="CM Northbound Interfaces for SDL"></featureInfo>
+<featureInfo featureCode="0000049655" featureName="CM Table Editor for SDL"></featureInfo>
+<featureInfo featureCode="0000049656" featureName="CM Auditing for SBC"></featureInfo>
+<featureInfo featureCode="0000049657" featureName="CM History for SBC"></featureInfo>
+<featureInfo featureCode="0000049658" featureName="NetAct CM Policy Manager for SBC"></featureInfo>
+<featureInfo featureCode="0000049659" featureName="CM SOAP API for SBC"></featureInfo>
+<featureInfo featureCode="0000049660" featureName="CM Express Data Exchange for SBC"></featureInfo>
+<featureInfo featureCode="0000049661" featureName="CM Activation Options for SBC"></featureInfo>
+<featureInfo featureCode="0000049662" featureName="CM Northbound Interfaces for SBC"></featureInfo>
+<featureInfo featureCode="0000049663" featureName="CM Table Editor for SBC"></featureInfo>
+<featureInfo featureCode="0000050531" featureName="T and P release 19"></featureInfo>
+<featureInfo featureCode="0000050898" featureName="SW Management for Radio"></featureInfo>
+<featureInfo featureCode="0000050972" featureName="NetAct 19 Level SW"></featureInfo>
+<featureInfo featureCode="0000051020" featureName="CM Policy Manager for Radio"></featureInfo>
+<featureInfo featureCode="0000051021" featureName="CM Auditing and History for Radio"></featureInfo>
+<featureInfo featureCode="0000051022" featureName="CM Editing Tools for Radio"></featureInfo>
+<featureInfo featureCode="0000051023" featureName="CM Intelligent Activation for Radio"></featureInfo>
+<featureInfo featureCode="0000051024" featureName="CM Express Data Exchange for Radio"></featureInfo>
+<featureInfo featureCode="0000051025" featureName="CM Network Re-organization for Radio"></featureInfo>
+<featureInfo featureCode="0000051026" featureName="Centralized UM with Security Logs Radio"></featureInfo>
+<featureInfo featureCode="0000051030" featureName="NBI per interface type"></featureInfo>
+<featureInfo featureCode="0000051031" featureName="NetAct Aut Suite per interface type"></featureInfo>
+<featureInfo featureCode="0000051222" featureName="CM RESTful API for Radio"></featureInfo>
+<featureInfo featureCode="0000051224" featureName="CM Change Notifications API for Radio"></featureInfo>
+<featureInfo featureCode="0000052482" featureName="NetAct to Central AD - Authorization(Per"></featureInfo>
+<featureInfo featureCode="0000052545" featureName="NetAct fast pass for NetAct 19.x"></featureInfo>
+</featureData>
+</LicenceData><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="licOSSW8806-pkisig-1"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"></ds:CanonicalizationMethod><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod><ds:Reference URI="#licOSSW8806"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>/XpsXuYklsQC7yifgt/Gz2MFuR8=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>WLifdgyX3ct6Cqv2y6jsTLuTKws+Aq5m9Ok5LR9WBeuUxoOfKPvwMTnOVjaUpj5SfxrOtsU1S1kNbpy7M6XT1t18IPOjSQCHj6RpZgMD/kvkHzztIQlFuHfTh/itNZeWsjX+e4bLt6+KORYljSdyE4SNK+LATemOyTAqOo81KOzVYVAQLiMiITAjk/PnsIJHafXXhZQ84jT3W916aD5+mkL6RYl31UNZivLQUyTre8QOP17HaJeVhgF8bRA9JwVJdXmhw4NRHBNCM/aeCUpIkeqX6MOOs8v2MPWwJo0+fuCVDPQDp5zjTFhh6bdx9wR8d3CRmP8li2ICDFhCTnO1nA==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509IssuerSerial><ds:X509IssuerName>CN=Factory Certification Authority, O=Nokia Siemens Networks</ds:X509IssuerName><ds:X509SerialNumber>200000025176</ds:X509SerialNumber></ds:X509IssuerSerial><ds:X509Certificate>MIIDfzCCAmegAwIBAgIFLpDuMlgwDQYJKoZIhvcNAQELBQAwSzEfMB0GA1UECgwWTm9raWEgU2llbWVucyBOZXR3b3JrczEoMCYGA1UEAwwfRmFjdG9yeSBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0xODA2MTUwOTEwMjJaFw0yNDA2MTUwOTEwMjJaMEYxJzAlBgNVBAMMHk5va2lhIENlbnRyYWwgTGljZW5zaW5nIFN5c3RlbTEOMAwGA1UECgwFTm9raWExCzAJBgNVBAYTAkZJMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtyiGz+nKlpa6uqI8enyZzOHvC/VmLGgM6H0rvuNia+xjrNbDFQiG+PmMt8m+h24u3j/vf3A1ZM8lhlDYTSU2jXEQ30OG6lpfa8rcL91DAhi/KXjo26HAg0nMofUkF9W7U9NxtsUuUqZQBTw4VaJ4j8r0ORnFmv4lWW1STK5VekYZe5LCGfTUe8Kds+0cJzLwiZms4Ht+3A6dkMcry0tP4FQrl2c+Fu6McPK6ivZA2YeD1/FjhomtWTPtKqPQ/brwm/n9vR9YJig7CMnGvVOu+mXLHvhdD5jf/iebxeExk2CbVxTsAsMOvcNwfQHEyWx4ZRjLc0AumNXE/iQy+QuHSwIDAY6To28wbTAfBgNVHSMEGDAWgBRdzNDFBzbMEOL/CXmDFCWumyF+2jAdBgNVHQ4EFgQUrwzNZGNVApstzZWgruJJ11+AeQMwDgYDVR0PAQH/BAQDAgeAMBsGA1UdIAEB/wQRMA8wDQYLKwYBBAFeATEFAgEwDQYJKoZIhvcNAQELBQADggEBAFO7u+Ggpbz/EyzhrjWLdZmrlKIPnUWCrPv2yf/SrWKoawOq2rxL/y5zTsuWzN19XSPkrNH8jljUYTjak6vC2tSe9bYhXRuyyupgQ8JQIQSNsm1jOCgCDPeFv+UGYkoU8amHaEt1X2VxdC6Ox1xIdROfVibKEcKSyEM1x8PvnIlVFzwpZYoLifGxbO7d5CjPCdQ3HLLqnnh4+vzw1BpxfaqKLWhrwsQ7oI+vJgW/TBM8edEqQigbSGAGOmqDbUdo00NZ9iiLUTiELtiFQcaNJw43K0AD1NAThF064ZKG8DxBIeIllT2L1oNwaEfjbDFP5WhdYhz95WPYiTdFzl+BCt4=</ds:X509Certificate><ds:X509Certificate>MIIEmzCCAoOgAwIBAgICAMswDQYJKoZIhvcNAQELBQAwKDEOMAwGA1UECgwFTm9raWExFjAUBgNVBAMMDU5va2lhIFJvb3QgQ0EwHhcNMTAwMzA0MTEyMTU0WhcNMjUwMzA0MTEyMTU0WjBLMR8wHQYDVQQKDBZOb2tpYSBTaWVtZW5zIE5ldHdvcmtzMSgwJgYDVQQDDB9GYWN0b3J5IENlcnRpZmljYXRpb24gQXV0aG9yaXR5MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9ukmhePNQpoxbMw5fH5w3EGR2Ig0XnDc1Zz9NrQBd5HBP9pis9m8Gbku7n+igZFg1nIs53NYggduK00RrE/rbSKilp2oQe5iu8heLqGI9tmqSHCvAz3eB8XOwd/n9Y6NKqZcKJtAIu8Z9QeI7dP5E1WWrNswr1K5NCdtUc/B7uXQ/pop8MzHjOaXizSPvqZZoF55HP4I43iUhdOigyPy1/w+G+Pu/SJpRKSW8/k+HN6nb0KvPV/o06f9uAkY6sn/jTecMXagctCrpBCk/k0rbcwMetCyGOKv30n25oceKbFVDpFWNPLv8atox9FPxK8PHznGdrlSqQu5OaUPUrHsBQIDAQABo4GrMIGoMBIGA1UdEwEB/wQIMAYBAf8CAQAwEQYDVR0gBAowCDAGBgRVHSAAMA4GA1UdDwEB/wQEAwIBxjBQBgNVHSMESTBHgBTAHZ2an+hOkakUSMXc1wNpA2xppKEspCowKDEOMAwGA1UECgwFTm9raWExFjAUBgNVBAMMDU5va2lhIFJvb3QgQ0GCAQEwHQYDVR0OBBYEFF3M0MUHNswQ4v8JeYMUJa6bIX7aMA0GCSqGSIb3DQEBCwUAA4ICAQCLJlbHKxpxE5Ed8VRdh0fgN/CXaAHV2ODI9NfVgGEfeaLxa7Y808NfzAfl6vANXA9nzar5OW384iyOX6bCUY2dy/wOQMXC2T2SRbl1WNpXpu+MgWCP9QOrLYIaYQD1jE6JEZtatRAH99UThKfmmhmhuY+wED1vGmvTHMMQWanP3a+eziYSlff0+hu0bY8jXf1oJCi/KzkRt57WNOjvoSE2zyQ6Wh7/y4Qy8ZRNilAhf9rCsPUSnC1BAqvYwAxNHC+B1PJg2LIH3jdMd8x/hEAaSf7JTKqcpExPyuQta3hGlUXJTOskqUC6hWxy7Xf7IA/J5bBS6ta1rHxErIXljrMY+oFF+J0lAmuxoFXEbDFRhgXCNz+2Eb5Ro2EQKkrlRasiqZ3M5KWb2vJHLF28XObe3723JZvI7WbZTI3CnAZRcTDRQ8tjfBBt87hcYmO/+MVv4b6PJafwbO7pM+tX+cdVbps9yOTj9Iye4bE2RKzxsZyrD137lLnA5ubzcJSevGZvx4XuqA7aFcE1eXuoILetTVThniK5V2XQWr0GtDOe36XplFG9BSS++R8N5iwi4YwjUEv3agXqhllZJtKdAJg97HjHeCtipuTCKqiPPUWfFWnG0pbGSKAKq0okepCZdijU/0WU7Qmj6dg7sV9usODDL3dbjTnB2pVmUW3pJlKZvw==</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></Licence>
